@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1"  x="0px" y="0px" version="1.1" enable-background="new 0 0 30.24 30.24" xml:space="preserve" viewBox="0 0 22.656563 46.75" gorn="0" width="22.656563" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="46.75">
+    <desc >
+        <referenceFile >RTC_DS1302_module_PCB.svg</referenceFile>
+    </desc>
+    <metadata id="metadata31" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs29" />
+    <g  transform="translate(-1.625,35.375)">
+        <g >
+            <g >
+                <g id="silkscreen"  gorn="0.3.0.0.0">
+                    <text id="VCC"  x="14" y="-29" font-size="3.75" style="font-size:5px;font-family:OCRA;fill:none;fill-opacity:1" gorn="0.3.0.0.0.0">VCC</text>
+                    <text id="GND"  x="14" y="-20" font-size="3.75" style="font-size:5px;font-family:OCRA;fill:none;fill-opacity:1" gorn="0.3.0.0.0.1">GND</text>
+                    <text id="CLK"  x="14" y="-11" font-size="3.75" style="font-size:5px;font-family:OCRA;fill:none;fill-opacity:1" gorn="0.3.0.0.0.2">CLK</text>
+                    <text id="DAT"  x="14" y="-2" font-size="3.75" style="font-size:5px;font-family:OCRA;fill:none;fill-opacity:1" gorn="0.3.0.0.0.3">DAT</text>
+                    <text id="RST"  x="14" y="8" font-size="3.75" style="font-size:5px;font-family:OCRA;fill:none;fill-opacity:1" gorn="0.3.0.0.0.4">RST</text>
+                    <line fill="none" id="line4"  y1="-35" y2="11" x1="2" x2="2" stroke="#ffffff" stroke-width="0.75" gorn="0.3.0.0.0.5"/>
+                    <line fill="none" id="line6"  y1="11" y2="11" x1="2" x2="12" stroke="#ffffff" stroke-width="0.75" gorn="0.3.0.0.0.6"/>
+                    <line fill="none" id="line8"  y1="11" y2="-35" x1="12" x2="12" stroke="#ffffff" stroke-width="0.75" gorn="0.3.0.0.0.7"/>
+                    <line fill="none" id="line10"  y1="-35" y2="-35" x1="2" x2="12" stroke="#ffffff" stroke-width="0.75" gorn="0.3.0.0.0.8"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-1.625,35.375)">
+        <g >
+            <g >
+                <g id="copper0"  gorn="0.4.0.0.0">
+                    <g id="copper1"  gorn="0.4.0.0.0.0">
+                        <circle fill="none" id="connector4pin"  cx="7" cy="6" stroke="#ffbf00" stroke-width="2" gorn="0.4.0.0.0.0.0" r="3"/>
+                        <circle fill="none" id="connector5pin"  cx="7" cy="-3" stroke="#ffbf00" stroke-width="2" gorn="0.4.0.0.0.0.1" r="3"/>
+                        <circle fill="none" id="connector6pin"  cx="7" cy="-12" stroke="#ffbf00" stroke-width="2" gorn="0.4.0.0.0.0.2" r="3"/>
+                        <circle fill="none" id="connector3pin"  cx="7" cy="-21" stroke="#ffbf00" stroke-width="2" gorn="0.4.0.0.0.0.3" r="3"/>
+                        <circle fill="none" id="connector0pin"  cx="7" cy="-30" stroke="#ffbf00" stroke-width="2" gorn="0.4.0.0.0.0.4" r="3"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-1.625,35.375)">
+        <g >
+            <g >
+                <g id="keepout"  gorn="0.5.0.0.0"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-1.625,35.375)">
+        <g >
+            <g >
+                <g id="soldermask"  gorn="0.6.0.0.0"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-1.625,35.375)">
+        <g >
+            <g >
+                <g id="outline"  gorn="0.7.0.0.0"/>
+            </g>
+        </g>
+    </g>
+</svg>
